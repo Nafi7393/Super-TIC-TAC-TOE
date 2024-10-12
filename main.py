@@ -1,7 +1,7 @@
 import pygame
 import sys
 import game_functions as gf  # Import game logic
-from ai import AIPlayer  # Import AI logic
+from ai_player import AIPlayer  # Import AI logic
 import os
 
 # Initialize pygame
